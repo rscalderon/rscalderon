@@ -1,7 +1,6 @@
 ## 👋 Welcome!
 
-### 🏗️ I'm an engineer who loves building scalable full-stack apps. 🚀
--  I specialize primarily in Typescript, React, Node.js, Docker, Next.js, Express.js, SQL (PostgreSQL), and NoSQL (MongoDB).
+### 🏗️ I love building scalable full-stack apps 🚀 and I specialize in Typescript, React, Node.js, Docker, Next.js, Express.js, SQL (PostgreSQL), and NoSQL (MongoDB).
 - 👷 I’m currently building internal tools (including a CRM and a project management tool) for a consumer goods company.
 - 💻 Before that, I designed components and improved the CI/CD pipeline at for an edtech company's internal tools and public site (React app with 200k+ unique annual visitors).
 - 🔐 Before that, I built ShieldQL, an open-source JavaScript library that secures GraphQL endpoints within RESTful Express APIs through user authorization, authentication, and query sanitization.
