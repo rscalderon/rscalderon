@@ -10,7 +10,7 @@
 - 🕴️ I also gave talks on AWS, React Error Boundaries, and Design Patterns in Typescript.
 - Before all of that, I was a management consultant at EY-Parthenon 🕴️ and a Golden Bear at UC Berkeley 🐻
 
-### 📫 How to reach me: email samourcalderon@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/rodrigosamourcalderon/)
+#### 📫 How to reach me: email samourcalderon@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/rodrigosamourcalderon/)
 
 <!---
 rscalderon/rscalderon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
