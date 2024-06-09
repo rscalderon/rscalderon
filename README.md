@@ -1,6 +1,6 @@
-# Welcome! 👋
+# 👋 Welcome!
 
-### I'm an engineer who loves building scalable full-stack applications. 🏗️ 🚀
+### 🏗️ 🚀 I'm an engineer who loves building scalable full-stack applications.
 
 ### I specialize primarily in Typescript, React, Node.js, Docker, Next.js, Express.js, SQL (PostgreSQL), and NoSQL (MongoDB).
 - 👷 I’m currently building internal tools (including a CRM and a project management tool) for a consumer goods company.
