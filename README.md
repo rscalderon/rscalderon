@@ -1,8 +1,6 @@
 ## 👋 Welcome!
 
-### 🏗️ I'm engineer who loves building scalable full-stack apps 🚀 
-
-### I specialize in Typescript, React, Node.js, Docker, Next.js, Express.js, SQL (PostgreSQL), and NoSQL (MongoDB).
+### I love building, especially in Typescript, React, Vue, Node.js, Express.js, SQL (PostgreSQL), and NoSQL (MongoDB).
 
 - 👷 I’m currently building internal tools (including a CRM and a project management tool) for a consumer goods company.
 - 💻 Before that, I designed components and improved the CI/CD pipeline at for an edtech company's internal tools and public site (React app with 200k+ unique annual visitors).
