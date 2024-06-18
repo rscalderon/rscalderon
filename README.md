@@ -2,7 +2,7 @@
 
 ### I love building, especially in TS, React, Vue, Node.js, SQL (PostgreSQL), and NoSQL (MongoDB). 🏗️
 
-- 👷 In my most recent work, I've built and maintained scalable applications for clients in various industries, including healthcare, consumer goods, and Edtech.
+- 👷 I've recently built and maintained scalable applications for clients in various industries, including healthcare, consumer goods, and Edtech.
   - Some of them include an AI-powered Helpdesk, a project management tool, a mobile telehealth app, an RBAC Admin Dashboard, and a public site with 200k+ active users
 - 🔐 Before that, I built ShieldQL, an open-source JavaScript library that secures GraphQL endpoints within RESTful Express APIs through user authorization, authentication, and query sanitization.
 - 🕴️ I also gave talks on AWS, React Error Boundaries, and Design Patterns in Typescript.
