@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-### I love building, especially in TS, React, Vue, Node.js, SQL (PostgreSQL), and NoSQL (MongoDB). 🏗️
+### I love building products, especially in TS, React, Vue, Node.js, SQL (PostgreSQL), and NoSQL (MongoDB). 🏗️
 
 - 👷 I've recently built and maintained scalable applications for clients in the healthcare, consumer goods, and Edtech industries.
   - Some of them include an AI-powered Helpdesk, a project management tool, a mobile iOS and Android telehealth app, an RBAC Admin Dashboard, and a public site with 200k+ active users
