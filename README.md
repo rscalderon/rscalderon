@@ -1,12 +1,12 @@
-## 👋 Welcome!
+## 👋 Hi there!
 
-### Building across the stack 🏗️
+### I build software products 🏗️
 
-- 👷 Recently built and maintained products and tools for clients in the healthcare, consumer goods, and Edtech industries.
-  - Some of them include a GenAI/LLM-powered Helpdesk, a project management tool, a mobile iOS and Android telehealth app, an RBAC Admin Dashboard, and a public site with 200k+ active users
+- 👷 Recently built and maintained products and tools for clients in the 🏥 healthcare, 🛍️ consumer goods, and 🧑‍🏫 Edtech industries.
+  - These include a GenAI/LLM-powered Helpdesk, an iOS and Android telehealth product, an RBAC Admin Dashboard, and a public site with 200k+ active users
 - 🔐 Before that, I built ShieldQL, an open-source JavaScript library that secures GraphQL APIs.
 - 🕴️ Also gave talks on AWS, React Error Boundaries, and Design Patterns in Typescript.
-- Before all of that, I was the Chief of Staff to the CEO at the largest yogurt manufacturer in Central America, a management consultant at EY-Parthenon, 🕴️ and a Golden Bear at UC Berkeley 🐻
+- 👶 Before all that, I was the Chief of Staff to the CEO at the largest yogurt manufacturer in Central America 🥛, a management consultant at EY-Parthenon 💼, and a Golden Bear at UC Berkeley 🐻
 
 #### 📫 How to reach me: email samourcalderon@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/rodrigosamourcalderon/)
 
@@ -88,7 +88,7 @@ alt="TypeScript"
   src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"
   alt="Cypress"
 />
-<img
+<!-- <img
   src="https://camo.githubusercontent.com/cbc28d3c7a695ebaa6128e9f8f6e8411e3c854373701da21134f4410c888ae2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d55492d2532333030383143422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c2d7569266c6f676f436f6c6f723d7768697465"
   alt="MUI"
   data-canonical-src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&amp;logo=material-ui&amp;logoColor=white"
@@ -97,7 +97,7 @@ alt="TypeScript"
   src="https://camo.githubusercontent.com/44827058d4b05d71c87e257a4ef305f59a6732654cd9de1ee2f818e15dba31a4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465"
   alt="React Router"
   data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white"
-/>
+/> -->
 #### Technologies
 <img
   src="https://camo.githubusercontent.com/873c09f11f469258183d6e64e34c12195f5f7f3d311b4c7a1461339a7255ee00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465"
@@ -124,21 +124,21 @@ alt="TypeScript"
   alt="MySQL"
   data-canonical-src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
 />
-<img
+<!-- <img
   src="https://camo.githubusercontent.com/36e94a150acb3a08e254c12091ef06391f9eaaa9990c68828ab5b49d0afe2d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d2532333844443646392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b"
   alt="Webpack"
   data-canonical-src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black"
-/>
-<img
+/> -->
+<!-- <img
   src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
   alt="Vite"
-/>
+/> -->
 <img
   src="https://camo.githubusercontent.com/ba9790d8993e444ef470ced67bcc6937bd4f8b4f5d1eb9ce4a16597be158dba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465"
   alt="GraphQL"
   data-canonical-src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white"
 />
-<img
+<!-- <img
 src="https://camo.githubusercontent.com/dffc113c48aaf3d4ff62db008910c0af280ad6d834c2e990246873eab4796c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465"
 alt="Notion"
 data-canonical-src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white"
@@ -152,7 +152,7 @@ data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-ba
 src="https://camo.githubusercontent.com/43962ea76518cc3d0819b0206791ae36c28ccc369f99f412379914f42431c025/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465"
 alt="Vercel"
 data-canonical-src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"
-/>
+/> -->
 
 <!---
 rscalderon/rscalderon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
