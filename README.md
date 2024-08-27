@@ -1,8 +1,8 @@
 ## 👋 Hi there!
 
-### I build software products 🏗️
+### I love building software products 🏗️
 
-- 👷 Recently built and maintained products and tools for clients in 🏥 healthcare, 🛍️ consumer goods, and 🧑‍🏫 Edtech.
+- 👷 Recently built and maintained applications for clients in 🏥 healthcare, 🛍️ consumer goods, and 🧑‍🏫 Edtech.
   - These include a GenAI/LLM-powered Helpdesk, an iOS and Android telehealth product, an RBAC Admin Dashboard, and a public site with 200k+ active users
 - 🔐 Before that, I built ShieldQL, an open-source JavaScript library that secures GraphQL APIs.
 - 🕴️ Also gave talks on AWS, React Error Boundaries, and Design Patterns in Typescript.
