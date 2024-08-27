@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-### I love building software products 🏗️
+### Building software products 🏗️
 
 - 👷 Recently built and maintained applications for clients in 🏥 healthcare, 🛍️ consumer goods, and 🧑‍🏫 Edtech.
   - These include a GenAI/LLM-powered Helpdesk, an iOS and Android telehealth product, an RBAC Admin Dashboard, and a public site with 200k+ active users
