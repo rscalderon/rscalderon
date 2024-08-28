@@ -124,6 +124,11 @@ alt="TypeScript"
   alt="MySQL"
   data-canonical-src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
 />
+<img
+  src="https://camo.githubusercontent.com/ba9790d8993e444ef470ced67bcc6937bd4f8b4f5d1eb9ce4a16597be158dba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465"
+  alt="GraphQL"
+  data-canonical-src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white"
+/>
 <!-- <img
   src="https://camo.githubusercontent.com/36e94a150acb3a08e254c12091ef06391f9eaaa9990c68828ab5b49d0afe2d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d2532333844443646392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b"
   alt="Webpack"
@@ -133,11 +138,6 @@ alt="TypeScript"
   src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"
   alt="Vite"
 /> -->
-<img
-  src="https://camo.githubusercontent.com/ba9790d8993e444ef470ced67bcc6937bd4f8b4f5d1eb9ce4a16597be158dba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068514c2d4531303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465"
-  alt="GraphQL"
-  data-canonical-src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white"
-/>
 <!-- <img
 src="https://camo.githubusercontent.com/dffc113c48aaf3d4ff62db008910c0af280ad6d834c2e990246873eab4796c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465"
 alt="Notion"
