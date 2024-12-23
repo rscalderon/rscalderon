@@ -1,4 +1,4 @@
-### Building products 🏗️
+### Building 🏗️
 
 - 👷 Recently built and maintained applications for clients in 🎵 music, 🏥 healthcare, 🛍️ consumer goods, and 🧑‍🏫 Edtech.
   - These include a music streaming platform (web and mobile), GenAI/LLM-powered Helpdesk, an RBAC Admin Dashboard, and a public site with 200k+ active users
