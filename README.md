@@ -1,6 +1,6 @@
 ### Building 🏗️
 
-- 👷 Recently built and maintained applications for clients in 🎵 music, 🏥 healthcare, 🛍️ consumer goods, and 🧑‍🏫 Edtech.
+- 👷 Recently built and maintained applications for clients in 🎵 music, 🏥 healthcare, 🛍️ consumer goods, and 🧑‍🏫 Edtech. Also working on my Master's in Computer Science (MCIT) at the University of Pennsylvania.
   - These include a music streaming platform (web and mobile), GenAI/LLM-powered Helpdesk, an RBAC Admin Dashboard, and a public site with 200k+ active users
 - 🔐 Before that, I built ShieldQL, an open-source JavaScript library that secures GraphQL APIs.
 - 🕴️ Also gave talks on AWS, React Error Boundaries, and Design Patterns in Typescript.
