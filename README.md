@@ -1,4 +1,4 @@
-### Building (mostly in Typescript) 🏗️
+### Busy building 🏗️
 
 - 🚀 Building the future of hospitality. Previously Founding Eng in productivity, and music.
 - 🧑‍🎓 Studied Computer Science at the University of Pennsylvania and Business at Berkeley-Haas.
